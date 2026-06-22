@@ -1,7 +1,7 @@
 **Pseudocode to “Move Between Rooms”**
 
 FUNCTION show instructions  
-	&nbsp;DISPLAY name of game  
+	&emsp;DISPLAY name of game  
 	DISPLAY basic rules of game  
 	DISPLAY move commands (‘go North’, ‘go South’, ‘go East’, ‘go West’)  
 	DISPLAY get item command (get ‘item name’)  
