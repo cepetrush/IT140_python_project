@@ -8,7 +8,7 @@ This project requires building a text-based adventure game in Python. You must n
 Collect all 6 items to make a gourmet, 4 cheese, grilled cheese sandwich and return to the Entry to "win the game"
 or encounter Mr. Whiskers and become his afternoon snack.
 
-storyboard and map
+[storyboard and map](
 
 
 ## Core Project Requirements
