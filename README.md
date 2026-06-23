@@ -2,7 +2,11 @@
 
 This project requires building a text-based adventure game in Python. You must navigate a map containing at least eight distinct rooms, collect six unique items, and either win by collecting all items or lose by entering the villain's room.
 
-## Cat and Mouse Adventure Game
+# Cat and Mouse Adventure Game
+
+## Game Instructions
+Collect all 6 items to make a gourmet, 4 cheese, grilled cheese sandwich and return to the Entry to "win the game"
+or encounter Mr. Whiskers and become his afternoon snack.
 
 
 ## Core Project Requirements
