@@ -28,4 +28,4 @@ The Python script must execute the following functions:
     - 6 items in inventory = win
     - fewer than 6 items = game over
    
-[Pseudocode](https://github.com/cepetrush/IT140_python_project/blob/6a99f7511d4e3086d7ec428eae750d992133634f/documents/pseudocode.md)
+:cheese: [Pseudocode](https://github.com/cepetrush/IT140_python_project/blob/6a99f7511d4e3086d7ec428eae750d992133634f/documents/pseudocode.md)
