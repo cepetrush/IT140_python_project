@@ -8,7 +8,7 @@ This project requires building a text-based adventure game in Python. You must n
 Collect all 6 items to make a gourmet, 4 cheese, grilled cheese sandwich and return to the Entry to "win the game"
 or encounter Mr. Whiskers and become his afternoon snack.
 
-[Storyboard and Map](https://github.com/cepetrush/IT140_python_project/blob/f30a84bc7a374fcac740447b5feef4af82cfb2c0/documents/Storyboard.md)
+https://emojipedia.org/cheese-wedge[Storyboard and Map](https://github.com/cepetrush/IT140_python_project/blob/f30a84bc7a374fcac740447b5feef4af82cfb2c0/documents/Storyboard.md)
 
 
 ## core project requirements
