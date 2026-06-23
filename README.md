@@ -4,14 +4,14 @@ This project requires building a text-based adventure game in Python. You must n
 
 # Cat and Mouse Adventure Game
 
-## Game Instructions
+## game instructions
 Collect all 6 items to make a gourmet, 4 cheese, grilled cheese sandwich and return to the Entry to "win the game"
 or encounter Mr. Whiskers and become his afternoon snack.
 
-[storyboard and map](https://github.com/cepetrush/IT140_python_project/blob/f30a84bc7a374fcac740447b5feef4af82cfb2c0/documents/Storyboard.md)
+[Storyboard and Map](https://github.com/cepetrush/IT140_python_project/blob/f30a84bc7a374fcac740447b5feef4af82cfb2c0/documents/Storyboard.md)
 
 
-## Core Project Requirements
+## core project requirements
 The Python script must execute the following functions:
 - **The Map**
   - Built using a nested dictionary where keys represent rooms, and values represent directions and item locations.
