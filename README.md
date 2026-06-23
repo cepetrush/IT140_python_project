@@ -1,5 +1,10 @@
 # IT140_python_project
 
+This project requires building a text-based adventure game in Python. You must navigate a map containing at least eight distinct rooms, collect six unique items, and either win by collecting all items or lose by entering the villain's room.
+
+## Cat and Mouse Adventure Game
+
+
 ## Core Project Requirements
 The Python script must execute the following functions:
 - **The Map**
